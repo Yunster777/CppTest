@@ -4,11 +4,11 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-string abc;
+string a;
 
 int main()
 {
-    cin >> abc;
-    cout << abc << "\n";
+    cin >> a;
+    cout << a << "\n";
     return 0;
 }
